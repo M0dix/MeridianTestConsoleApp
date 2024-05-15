@@ -1,0 +1,16 @@
+C:\Users\yufin\source\repos\MeridianTestConsoleApp\bin\Debug\net8.0\MeridianTestConsoleApp.exe
+C:\Users\yufin\source\repos\MeridianTestConsoleApp\bin\Debug\net8.0\MeridianTestConsoleApp.deps.json
+C:\Users\yufin\source\repos\MeridianTestConsoleApp\bin\Debug\net8.0\MeridianTestConsoleApp.runtimeconfig.json
+C:\Users\yufin\source\repos\MeridianTestConsoleApp\bin\Debug\net8.0\MeridianTestConsoleApp.dll
+C:\Users\yufin\source\repos\MeridianTestConsoleApp\bin\Debug\net8.0\MeridianTestConsoleApp.pdb
+C:\Users\yufin\source\repos\MeridianTestConsoleApp\obj\Debug\net8.0\MeridianTestConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yufin\source\repos\MeridianTestConsoleApp\obj\Debug\net8.0\MeridianTestConsoleApp.AssemblyInfoInputs.cache
+C:\Users\yufin\source\repos\MeridianTestConsoleApp\obj\Debug\net8.0\MeridianTestConsoleApp.AssemblyInfo.cs
+C:\Users\yufin\source\repos\MeridianTestConsoleApp\obj\Debug\net8.0\MeridianTestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\yufin\source\repos\MeridianTestConsoleApp\obj\Debug\net8.0\MeridianTestConsoleApp.dll
+C:\Users\yufin\source\repos\MeridianTestConsoleApp\obj\Debug\net8.0\refint\MeridianTestConsoleApp.dll
+C:\Users\yufin\source\repos\MeridianTestConsoleApp\obj\Debug\net8.0\MeridianTestConsoleApp.pdb
+C:\Users\yufin\source\repos\MeridianTestConsoleApp\obj\Debug\net8.0\MeridianTestConsoleApp.genruntimeconfig.cache
+C:\Users\yufin\source\repos\MeridianTestConsoleApp\obj\Debug\net8.0\ref\MeridianTestConsoleApp.dll
+C:\Users\yufin\source\repos\MeridianTestConsoleApp\bin\Debug\net8.0\Data\Ученики.txt
+C:\Users\yufin\source\repos\MeridianTestConsoleApp\bin\Debug\net8.0\Data\Учителя.txt
